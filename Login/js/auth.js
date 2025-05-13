@@ -2,8 +2,8 @@
     "use strict";
 
     const accounts = {
-        "shahriar@example.com": { password: "123", redirect: "../../user.html" },
-        "admin@example.com":    { password: "456", redirect: "../../admin.html" }
+        "shahriar@example.com": { password: "123", redirect: "../../user/user.html" },
+        "admin@example.com":    { password: "456", redirect: "../../admin/admin.html" }
     };
 
     $(document).ready(function() {
